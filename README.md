@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as software developer mostly with Java.
 - 🌱 I’m currently learning Angular & NodeJS.
-- 🐍 Forever in love with Python.
+- 🐍 Forever in 💓 with Python.
 - 📫 How to reach me: [e-mail](mailto:filipemanuelofs@gmail.com) and [LinkedIn](https://www.linkedin.com/in/filipemanuelofs/).
 <!--
 - 👯 I’m looking to collaborate on ...
