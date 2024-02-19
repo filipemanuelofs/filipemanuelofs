@@ -1,11 +1,8 @@
 ### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/filipemanuelofs/filipemanuelofs/master/header.png" alt="If at first you don't succeed, call it version 1.0">
-
 - 🔭 I’m currently working as software developer mostly with Java.
-- 🌱 I’m currently learning Angular & NodeJS.
+- 🌱 I’m currently learning Angular & NodeJS (for work), Godot/GDScript (for hobby - game dev).
 - 🐍 Forever in 💓 with Python.
-- 📫 How to reach me: [e-mail](mailto:filipemanuelofs@gmail.com) and [LinkedIn](https://www.linkedin.com/in/filipemanuelofs/).
+- 📫 How to reach me: [e-mail](mailto:filipemanuelofs@gmail.com).
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
